@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./",
+    "esModuleInterop": true,
+    "paths": {
+      "@object": ["src/stage/object.d.ts"],
+    }
+  }
+}
