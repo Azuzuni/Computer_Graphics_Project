@@ -1,7 +1,7 @@
 # Level_Editor
 
-Launch SetUp.bat to download dependencies
-Then Launch StartUp.bat to run vite on localhost
+Launch SetUp.bat to download dependencies <br>
+Then Launch StartUp.bat to run vite on localhost <br>
 
 or use those commands manually
 ```
